@@ -21,3 +21,6 @@ Interactive Charts: Trends, regional analysis, heat maps
 Slicers: Filter by Region, Category, Year
 
 Profit/Loss Leaders: Top 5 best and worst performers
+
+<img width="1705" height="893" alt="Screenshot 2025-10-08 134554" src="https://github.com/user-attachments/assets/f3927cfb-4ecd-4070-b917-55e0e06ab605" />
+
