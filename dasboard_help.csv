@@ -1,0 +1,38 @@
+Super Store Sales Performance Dashboard,,,,,,,
+,,,,,,,
+,,,,,,,
+,Total Sales,,Total Profit,,Profit Margin,,
+,,,,,,,
+,"1,57,426.20",,-15720.3,,-10%,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,Sum of  Profit ,Column Labels,,,,,
+,Row Labels,Atlantic,Northwest Territories,Nunavut,Ontario,Prarie,Quebec
+,Appliances,24516.6,4764.1,451.4,29854.1,11652.9,7441.5
+,Binders and Binder Accessories,36529.3,30060.4,-417.6,94698.8,42302.7,30321.5
+,Bookcases,7861.8,-14323.1,102.4,-14934.5,3665.9,-12354
+,Chairs & Chairmats,8763.2,9304.2,1470.2,53364.5,402.8,27987.5
+,Computer Peripherals,14475.2,-402.4,1098.1,18716.8,20843.6,13668.3
+,Copiers and Fax,12885.4,10976.3,-547.6,32715.1,21353.2,33140.7
+,Envelopes,4256.3,3566.6,447,8060.2,8117.9,4963.2
+,Labels,2138.4,557,254.2,3389.5,2673.1,1143.6
+,Office Furnishings,6576,5843.3,484.9,20898.5,25463.6,10076.8
+,Office Machines,88127.3,27455.7,,52350.1,107003.2,21787
+,Paper,11074.2,1516.5,-338,13419.5,5256.7,3639.3
+,Pens & Art Supplies,746.9,224.5,33.1,2128.7,1336.4,1233.5
+,Rubber Bands,78.7,128.5,-20.1,153,-54.7,-227
+,"Scissors, Rulers and Trimmers",-792.2,-172.3,-1759.6,-2023.2,-1968,-692.3
+,Storage & Organization,-10343.5,-2708.6,-1206.6,5432.8,14213.9,-3123.5
+,Tables,-16559.7,-3213,-481,-35948,-8760.3,-29957.4
+,Telephones and Communication,41158.1,18177.6,1935.9,69986.4,58150,29609.5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,Sub-Categoroy,Sum of  Profit ,,Sub-Category,Sum of  Profit ,,
+,Chairs & Chairmats,41103.8,,Bookcases,-27434.5,,
+,Office Furnishings,33366,,Chairs & Chairmats,41103.8,,
+,Bookcases,-27434.5,,Office Furnishings,33366,,
+,Tables,-45406.6,,Tables,-45406.6,,
+,Grand Total,1628.7,,Grand Total,1628.7,,
